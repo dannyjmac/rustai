@@ -1,0 +1,2 @@
+# rustai
+Rust Open AI
